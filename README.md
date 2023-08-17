@@ -1,0 +1,1 @@
+Java ile kullanıcıdan boy ve kilo değerlerini alıp bir değişkene atayan,vücut kitle indeks hesaplayıcı.
